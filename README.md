@@ -10,24 +10,35 @@ It can perform prediction of diabetes based on required features mentioned on we
 ## Installation Screenshots
 
 
+
+
 - AWS EC2 instance launch
 ![](ec2_instance.jpg)
+
+
 
 
 - Copy files from local system to instance created
 ![](winscp.jpg)
 
 
+
+
 - Install required libraries in instance
 ![](ubuntu.jpg)
+
+
 
 
 - Connect instance using its public DNS
 ![](public_DNS.jpg)
 
 
+
+
 - Web App working on AWS EC2 instance
 ![](aws_deployed.jpg)
+
 
 
   
